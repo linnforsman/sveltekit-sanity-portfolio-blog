@@ -1,0 +1,49 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  padding: 32px 128px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: black;
+  font-weight: 100;
+}
+
+a {
+  text-decoration: none;
+  color: #6e7683;
+}
+
+small {
+  color: #6e7683;
+}
+p,
+span {
+  font-family: sans-serif;
+  color: #6e7683;
+}
+
+table {
+  border-collapse: collapse;
+  width: 40%;
+  text-align: center;
+}
+
+th {
+  height: 2rem;
+  font-weight: 500;
+}
+
+tr {
+  border-left: solid #6e7683 1px;
+  border-right: solid #6e7683 1px;
+}
